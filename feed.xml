@@ -3,12 +3,55 @@
     <title>Toma-it</title>
     <link href="https://toma-it.pages.dev/feed.xml" rel="self" />
     <link href="https://toma-it.pages.dev" />
-    <updated>2023-10-26T17:37:13+02:00</updated>
+    <updated>2023-10-26T18:13:12+02:00</updated>
     <author>
         <name>Toma</name>
     </author>
     <id>https://toma-it.pages.dev</id>
 
+    <entry>
+        <title>donna negozio</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/donna-negozio.html"/>
+        <id>https://toma-it.pages.dev/donna-negozio.html</id>
+
+        <updated>2023-10-26T18:13:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                    xSearch("id=my-search-31364012"); Ecwid.init(); xCategoriesV2("id=my-categories-31364012"); xProductBrowser("categoriesPerRow=3", "views=grid(20,3) list(60) table(60)", "categoryView=grid", "searchView=list", "id=my-store-31364012");
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div id="my-search-31364012"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?31364012&amp;data_platform=code&amp;data_date=2023-10-26" charset="utf-8"></script>
+<script type="text/javascript"> xSearch("id=my-search-31364012"); </script>
+</div>
+<div class="ec-cart-widget"> </div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?31364012&amp;data_platform=code&amp;data_date=2023-10-26" charset="utf-8"></script>
+<script type="text/javascript">Ecwid.init();</script>
+</div>
+<div id="my-categories-31364012"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?31364012&amp;data_platform=code&amp;data_date=2023-10-26" charset="utf-8"></script>
+<script type="text/javascript">
+		xCategoriesV2("id=my-categories-31364012");
+	</script>
+</div>
+<div id="my-store-31364012"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?31364012&amp;data_platform=code&amp;data_date=2023-10-26" charset="utf-8"></script>
+<script type="text/javascript">
+		xProductBrowser("categoriesPerRow=3", "views=grid(20,3) list(60) table(60)", "categoryView=grid", "searchView=list", "id=my-store-31364012");
+	</script>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Toma Sphere</title>
         <author>
