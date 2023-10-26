@@ -5,10 +5,81 @@
     "home_page_url": "https://toma-it.pages.dev",
     "feed_url": "https://toma-it.pages.dev/feed.json",
     "user_comment": "",
+    "icon": "https://toma-it.pages.dev/media/website/logo_toma.svg",
     "author": {
         "name": "Toma"
     },
     "items": [
+        {
+            "id": "https://toma-it.pages.dev/toma-sphere.html",
+            "url": "https://toma-it.pages.dev/toma-sphere.html",
+            "title": "Toma Sphere",
+            "summary": "Toma Sphere",
+            "content_html": "\n  <p>\n    Toma Sphere\n  </p>",
+            "author": {
+                "name": "Toma"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-26T17:37:13+02:00",
+            "date_modified": "2023-10-26T17:37:13+02:00"
+        },
+        {
+            "id": "https://toma-it.pages.dev/personalizzazioni.html",
+            "url": "https://toma-it.pages.dev/personalizzazioni.html",
+            "title": "Personalizzazioni",
+            "summary": "Personalizzazioni",
+            "content_html": "\n  <p>\n    Personalizzazioni\n  </p>",
+            "author": {
+                "name": "Toma"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-26T17:36:57+02:00",
+            "date_modified": "2023-10-26T17:36:57+02:00"
+        },
+        {
+            "id": "https://toma-it.pages.dev/collezioni.html",
+            "url": "https://toma-it.pages.dev/collezioni.html",
+            "title": "Collezioni",
+            "summary": "collezioni",
+            "content_html": "\n  <p>\n    collezioni\n  </p>",
+            "author": {
+                "name": "Toma"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-26T17:36:33+02:00",
+            "date_modified": "2023-10-26T17:36:40+02:00"
+        },
+        {
+            "id": "https://toma-it.pages.dev/uomo.html",
+            "url": "https://toma-it.pages.dev/uomo.html",
+            "title": "Uomo",
+            "summary": "uomo",
+            "content_html": "\n  <p>\n    uomo\n  </p>",
+            "author": {
+                "name": "Toma"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-26T17:36:20+02:00",
+            "date_modified": "2023-10-26T17:36:20+02:00"
+        },
+        {
+            "id": "https://toma-it.pages.dev/donna.html",
+            "url": "https://toma-it.pages.dev/donna.html",
+            "title": "Donna",
+            "summary": "Donna",
+            "content_html": "\n  <p>\n    Donna\n  </p>",
+            "author": {
+                "name": "Toma"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-26T17:36:07+02:00",
+            "date_modified": "2023-10-26T17:36:07+02:00"
+        },
         {
             "id": "https://toma-it.pages.dev/toma.html",
             "url": "https://toma-it.pages.dev/toma.html",

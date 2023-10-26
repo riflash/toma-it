@@ -3,12 +3,127 @@
     <title>Toma-it</title>
     <link href="https://toma-it.pages.dev/feed.xml" rel="self" />
     <link href="https://toma-it.pages.dev" />
-    <updated>2023-10-26T17:12:17+02:00</updated>
+    <updated>2023-10-26T17:37:13+02:00</updated>
     <author>
         <name>Toma</name>
     </author>
     <id>https://toma-it.pages.dev</id>
 
+    <entry>
+        <title>Toma Sphere</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/toma-sphere.html"/>
+        <id>https://toma-it.pages.dev/toma-sphere.html</id>
+
+        <updated>2023-10-26T17:37:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Toma Sphere
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Toma Sphere
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Personalizzazioni</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/personalizzazioni.html"/>
+        <id>https://toma-it.pages.dev/personalizzazioni.html</id>
+
+        <updated>2023-10-26T17:36:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Personalizzazioni
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Personalizzazioni
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Collezioni</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/collezioni.html"/>
+        <id>https://toma-it.pages.dev/collezioni.html</id>
+
+        <updated>2023-10-26T17:36:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    collezioni
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    collezioni
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Uomo</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/uomo.html"/>
+        <id>https://toma-it.pages.dev/uomo.html</id>
+
+        <updated>2023-10-26T17:36:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                    uomo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    uomo
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Donna</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/donna.html"/>
+        <id>https://toma-it.pages.dev/donna.html</id>
+
+        <updated>2023-10-26T17:36:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Donna
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Donna
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Toma git cloud</title>
         <author>
