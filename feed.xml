@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Toma-it</title>
+    <link href="https://toma-it.pages.dev/feed.xml" rel="self" />
+    <link href="https://toma-it.pages.dev" />
+    <updated>2023-10-26T17:12:17+02:00</updated>
+    <author>
+        <name>Toma</name>
+    </author>
+    <id>https://toma-it.pages.dev</id>
+
+    <entry>
+        <title>Toma git cloud</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/toma.html"/>
+        <id>https://toma-it.pages.dev/toma.html</id>
+
+        <updated>2023-10-26T17:12:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    toma
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    toma
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
