@@ -3,12 +3,41 @@
     <title>Toma-it</title>
     <link href="https://toma-it.pages.dev/feed.xml" rel="self" />
     <link href="https://toma-it.pages.dev" />
-    <updated>2023-10-26T18:55:53+02:00</updated>
+    <updated>2023-10-27T17:17:01+02:00</updated>
     <author>
         <name>Toma</name>
     </author>
     <id>https://toma-it.pages.dev</id>
 
+    <entry>
+        <title>Toma home</title>
+        <author>
+            <name>Toma</name>
+        </author>
+        <link href="https://toma-it.pages.dev/toma-home.html"/>
+        <id>https://toma-it.pages.dev/toma-home.html</id>
+
+        <updated>2023-10-27T17:17:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                    colonna di sinistra colonna di centro colonna di destra colonna di sinistra colonna di destra
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="flex-container">
+<div> </div>
+<div class="flex-item-left">colonna di sinistra</div>
+<div class="flex-item-center">colonna di centro</div>
+<div class="flex-item-right">colonna di destra</div>
+</div>
+<div class="flex-container">
+<div class="flex-item-left">colonna di sinistra</div>
+<div class="flex-item-right">colonna di destra</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bridal accessori donna</title>
         <author>
@@ -186,26 +215,6 @@
         <content type="html">
             <![CDATA[
                 <p>Mocassini e ballerine donna</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sandali donna</title>
-        <author>
-            <name>Toma</name>
-        </author>
-        <link href="https://toma-it.pages.dev/sandali-donna.html"/>
-        <id>https://toma-it.pages.dev/sandali-donna.html</id>
-
-        <updated>2023-10-26T18:43:10+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Sandali donna
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Sandali donna</p>
             ]]>
         </content>
     </entry>
