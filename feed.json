@@ -15,14 +15,15 @@
             "url": "https://toma-it.pages.dev/toma-home.html",
             "title": "Toma home",
             "summary": "g h k f",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/CAQ68JwOomg?si=7Pb5grx1XtcSMRfN&amp;controls=0&amp;autoplay=1&amp;mute=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>g</p>\n<p>h</p>\n<p>k</p>\n<div class=\"flex-container\">\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-center\">colonna di centro</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>\n<div class=\"flex-container\">\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>\n<p>f</p>",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"1244\" height=\"700\" src=\"https://cdn3.static.flewee.com/store/s_5ec7d8426586f65e51623d1f/video/VideoLuglio2020.mp4?etag=-1667033702189230458\" controls=\"controls\" autoplay=\"autoplay\" muted=\"\" playsinline=\"\" frameborder=\"0\"></iframe></figure>\n<p>g</p>\n<p>h</p>\n<p>k</p>\n<div class=\"flex-container\">\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-center\">colonna di centro</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>\n<div class=\"flex-container\">\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>\n<p>f</p>",
+            "image": "https://toma-it.pages.dev/media/posts/23/1_ok.webp",
             "author": {
                 "name": "Toma"
             },
             "tags": [
             ],
             "date_published": "2023-10-27T17:14:57+02:00",
-            "date_modified": "2023-10-28T14:52:01+02:00"
+            "date_modified": "2023-10-28T16:08:54+02:00"
         },
         {
             "id": "https://toma-it.pages.dev/bridal-accessori-donna.html",

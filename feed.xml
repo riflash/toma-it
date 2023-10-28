@@ -3,7 +3,7 @@
     <title>Toma-it</title>
     <link href="https://toma-it.pages.dev/feed.xml" rel="self" />
     <link href="https://toma-it.pages.dev" />
-    <updated>2023-10-28T14:52:01+02:00</updated>
+    <updated>2023-10-28T16:08:54+02:00</updated>
     <author>
         <name>Toma</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://toma-it.pages.dev/toma-home.html"/>
         <id>https://toma-it.pages.dev/toma-home.html</id>
+        <media:content url="https://toma-it.pages.dev/media/posts/23/1_ok.webp" medium="image" />
 
-        <updated>2023-10-28T14:52:01+02:00</updated>
+        <updated>2023-10-28T16:08:54+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://toma-it.pages.dev/media/posts/23/1_ok.webp" alt="" />
                     g h k f
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CAQ68JwOomg?si=7Pb5grx1XtcSMRfN&amp;controls=0&amp;autoplay=1&amp;mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></figure>
+                    <p><img src="https://toma-it.pages.dev/media/posts/23/1_ok.webp" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="1244" height="700" src="https://cdn3.static.flewee.com/store/s_5ec7d8426586f65e51623d1f/video/VideoLuglio2020.mp4?etag=-1667033702189230458" controls="controls" autoplay="autoplay" muted="" playsinline="" frameborder="0"></iframe></figure>
 <p>g</p>
 <p>h</p>
 <p>k</p>
