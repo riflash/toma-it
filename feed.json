@@ -14,15 +14,15 @@
             "id": "https://toma-it.pages.dev/toma-home.html",
             "url": "https://toma-it.pages.dev/toma-home.html",
             "title": "Toma home",
-            "summary": "colonna di sinistra colonna di centro colonna di destra colonna di sinistra colonna di destra",
-            "content_html": "<div class=\"flex-container\">\n<div> </div>\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-center\">colonna di centro</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>\n<div class=\"flex-container\">\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>",
+            "summary": "g h k f",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/CAQ68JwOomg?si=7Pb5grx1XtcSMRfN&amp;controls=0&amp;autoplay=1&amp;mute=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<p>g</p>\n<p>h</p>\n<p>k</p>\n<div class=\"flex-container\">\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-center\">colonna di centro</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>\n<div class=\"flex-container\">\n<div class=\"flex-item-left\">colonna di sinistra</div>\n<div class=\"flex-item-right\">colonna di destra</div>\n</div>\n<p>f</p>",
             "author": {
                 "name": "Toma"
             },
             "tags": [
             ],
             "date_published": "2023-10-27T17:14:57+02:00",
-            "date_modified": "2023-10-27T17:17:01+02:00"
+            "date_modified": "2023-10-28T14:52:01+02:00"
         },
         {
             "id": "https://toma-it.pages.dev/bridal-accessori-donna.html",

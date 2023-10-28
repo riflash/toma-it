@@ -3,7 +3,7 @@
     <title>Toma-it</title>
     <link href="https://toma-it.pages.dev/feed.xml" rel="self" />
     <link href="https://toma-it.pages.dev" />
-    <updated>2023-10-27T17:17:01+02:00</updated>
+    <updated>2023-10-28T14:52:01+02:00</updated>
     <author>
         <name>Toma</name>
     </author>
@@ -17,16 +17,19 @@
         <link href="https://toma-it.pages.dev/toma-home.html"/>
         <id>https://toma-it.pages.dev/toma-home.html</id>
 
-        <updated>2023-10-27T17:17:01+02:00</updated>
+        <updated>2023-10-28T14:52:01+02:00</updated>
             <summary>
                 <![CDATA[
-                    colonna di sinistra colonna di centro colonna di destra colonna di sinistra colonna di destra
+                    g h k f
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="flex-container">
-<div> </div>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CAQ68JwOomg?si=7Pb5grx1XtcSMRfN&amp;controls=0&amp;autoplay=1&amp;mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></figure>
+<p>g</p>
+<p>h</p>
+<p>k</p>
+<div class="flex-container">
 <div class="flex-item-left">colonna di sinistra</div>
 <div class="flex-item-center">colonna di centro</div>
 <div class="flex-item-right">colonna di destra</div>
@@ -35,6 +38,7 @@
 <div class="flex-item-left">colonna di sinistra</div>
 <div class="flex-item-right">colonna di destra</div>
 </div>
+<p>f</p>
             ]]>
         </content>
     </entry>
